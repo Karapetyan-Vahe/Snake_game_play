@@ -1,0 +1,12 @@
+canvas {
+    display: block;
+    margin: 0 auto;
+}
+
+a {
+    display: none;
+    background-color: aqua;
+    font-size: 25px;
+    color: white;
+    text-decoration: none;
+}
